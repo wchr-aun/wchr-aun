@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Aun. 👋
+
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/wchr-aun/)
+
+💬 Other GitHub: [aun-wise](https://github.com/aun-wise)
 
 <!--
 **wchr-aun/wchr-aun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
